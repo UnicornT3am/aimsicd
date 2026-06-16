@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "updated": "2026-06-16",
+  "countries": [
+    {
+      "code": "AF",
+      "name": "Afganistán",
+      "mcc": 412,
+      "file": "data/AF_412.csv.gz",
+      "cells": 4645,
+      "size": 82172
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "mcc": 276,
+      "file": "data/AL_276.csv.gz",
+      "cells": 2740,
+      "size": 46755
+    },
+    {
+      "code": "DE",
+      "name": "Alemania",
+      "mcc": 262,
+      "file": "data/DE_262.csv.gz",
+      "cells": 244634,
+      "size": 5459855
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "mcc": 213,
+      "file": "data/AD_213.csv.gz",
+      "cells": 102,
+      "size": 1825
+    },
+    {
+      "code": "SA",
+      "name": "Arabia Saudí",
+      "mcc": 420,
+      "file": "data/SA_420.csv.gz",
+      "cells": 13295,
+      "size": 244554
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "mcc": 722,
+      "file": "data/AR_722.csv.gz",
+      "cells": 8235,
+      "size": 154949
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "mcc": 283,
+      "file": "data/AM_283.csv.gz",
+      "cells": 429,
+      "size": 7473
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "mcc": 505,
+      "file": "data/AU_505.csv.gz",
+      "cells": 153903,
+      "size": 3377884
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "mcc": 232,
+      "file": "data/AT_232.csv.gz",
+      "cells": 54648,
+      "size": 1126695
+    },
+    {
+      "code": "BD",
+      "name": "Bangladés",
+      "mcc": 470,
+      "file": "data/BD_470.csv.gz",
+      "cells": 9024,
+      "size": 139009
+    },
+    {
+      "code": "BM",
+      "name": "Bermudas",
+      "mcc": 350,
+      "file": "data/BM_350.csv.gz",
+      "cells": 64,
+      "size": 1198
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "mcc": 736,
+      "file": "data/BO_736.csv.gz",
+      "cells": 239,
+      "size": 3878
+    },
+    {
+      "code": "BR",
+      "name": "Brasil",
+      "mcc": 724,
+      "file": "data/BR_724.csv.gz",
+      "cells": 55819,
+      "size": 1117088
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "mcc": 284,
+      "file": "data/BG_284.csv.gz",
+      "cells": 11199,
+      "size": 211557
+    },
+    {
+      "code": "BE",
+      "name": "Bélgica",
+      "mcc": 206,
+      "file": "data/BE_206.csv.gz",
+      "cells": 74005,
+      "size": 1432996
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "mcc": 625,
+      "file": "data/CV_625.csv.gz",
+      "cells": 928,
+      "size": 17147
+    },
+    {
+      "code": "KH",
+      "name": "Camboya",
+      "mcc": 456,
+      "file": "data/KH_456.csv.gz",
+      "cells": 2939,
+      "size": 46004
+    },
+    {
+      "code": "CA",
+      "name": "Canadá",
+      "mcc": 302,
+      "file": "data/CA_302.csv.gz",
+      "cells": 54636,
+      "size": 1138536
+    },
+    {
+      "code": "CZ",
+      "name": "Chequia",
+      "mcc": 230,
+      "file": "data/CZ_230.csv.gz",
+      "cells": 36350,
+      "size": 728672
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "mcc": 730,
+      "file": "data/CL_730.csv.gz",
+      "cells": 26347,
+      "size": 504906
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "mcc": 460,
+      "file": "data/CN_460.csv.gz",
+      "cells": 193212,
+      "size": 3057644
+    },
+    {
+      "code": "CY",
+      "name": "Chipre",
+      "mcc": 280,
+      "file": "data/CY_280.csv.gz",
+      "cells": 10236,
+      "size": 199659
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "mcc": 732,
+      "file": "data/CO_732.csv.gz",
+      "cells": 13586,
+      "size": 273976
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "mcc": 712,
+      "file": "data/CR_712.csv.gz",
+      "cells": 65081,
+      "size": 1351919
+    },
+    {
+      "code": "HR",
+      "name": "Croacia",
+      "mcc": 219,
+      "file": "data/HR_219.csv.gz",
+      "cells": 28210,
+      "size": 579813
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "mcc": 368,
+      "file": "data/CU_368.csv.gz",
+      "cells": 376,
+      "size": 6476
+    },
+    {
+      "code": "DK",
+      "name": "Dinamarca",
+      "mcc": 238,
+      "file": "data/DK_238.csv.gz",
+      "cells": 19730,
+      "size": 384495
+    },
+    {
+      "code": "DO",
+      "name": "Dominicana",
+      "mcc": 370,
+      "file": "data/DO_370.csv.gz",
+      "cells": 13928,
+      "size": 269189
+    },
+    {
+      "code": "AE",
+      "name": "EAU",
+      "mcc": 424,
+      "file": "data/AE_424.csv.gz",
+      "cells": 26128,
+      "size": 531414
+    },
+    {
+      "code": "US",
+      "name": "EEUU",
+      "mcc": 310,
+      "file": "data/US_310.csv.gz",
+      "cells": 2122022,
+      "size": 44925325
+    },
+    {
+      "code": "US",
+      "name": "EEUU",
+      "mcc": 311,
+      "file": "data/US_311.csv.gz",
+      "cells": 269608,
+      "size": 5776589
+    },
+    {
+      "code": "US",
+      "name": "EEUU",
+      "mcc": 312,
+      "file": "data/US_312.csv.gz",
+      "cells": 346,
+      "size": 4162
+    },
+    {
+      "code": "US",
+      "name": "EEUU",
+      "mcc": 313,
+      "file": "data/US_313.csv.gz",
+      "cells": 10476,
+      "size": 197505
+    },
+    {
+      "code": "US",
+      "name": "EEUU",
+      "mcc": 314,
+      "file": "data/US_314.csv.gz",
+      "cells": 220,
+      "size": 4148
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "mcc": 706,
+      "file": "data/SV_706.csv.gz",
+      "cells": 10545,
+      "size": 208461
+    },
+    {
+      "code": "SI",
+      "name": "Eslovenia",
+      "mcc": 293,
+      "file": "data/SI_293.csv.gz",
+      "cells": 11166,
+      "size": 225118
+    },
+    {
+      "code": "ES",
+      "name": "España",
+      "mcc": 214,
+      "file": "data/ES_214.csv.gz",
+      "cells": 94995,
+      "size": 2011059
+    },
+    {
+      "code": "PH",
+      "name": "Filipinas",
+      "mcc": 515,
+      "file": "data/PH_515.csv.gz",
+      "cells": 39619,
+      "size": 667845
+    },
+    {
+      "code": "FI",
+      "name": "Finlandia",
+      "mcc": 244,
+      "file": "data/FI_244.csv.gz",
+      "cells": 34803,
+      "size": 663198
+    },
+    {
+      "code": "FR",
+      "name": "Francia",
+      "mcc": 208,
+      "file": "data/FR_208.csv.gz",
+      "cells": 785512,
+      "size": 17306042
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "mcc": 266,
+      "file": "data/GI_266.csv.gz",
+      "cells": 41,
+      "size": 889
+    },
+    {
+      "code": "GR",
+      "name": "Grecia",
+      "mcc": 202,
+      "file": "data/GR_202.csv.gz",
+      "cells": 24903,
+      "size": 470440
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "mcc": 704,
+      "file": "data/GT_704.csv.gz",
+      "cells": 33231,
+      "size": 627586
+    },
+    {
+      "code": "NL",
+      "name": "Holanda",
+      "mcc": 204,
+      "file": "data/NL_204.csv.gz",
+      "cells": 41749,
+      "size": 837272
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "mcc": 708,
+      "file": "data/HN_708.csv.gz",
+      "cells": 2243,
+      "size": 42772
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "mcc": 454,
+      "file": "data/HK_454.csv.gz",
+      "cells": 37856,
+      "size": 710134
+    },
+    {
+      "code": "HU",
+      "name": "Hungría",
+      "mcc": 216,
+      "file": "data/HU_216.csv.gz",
+      "cells": 30237,
+      "size": 605237
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "mcc": 510,
+      "file": "data/ID_510.csv.gz",
+      "cells": 53623,
+      "size": 835646
+    },
+    {
+      "code": "IE",
+      "name": "Irlanda",
+      "mcc": 272,
+      "file": "data/IE_272.csv.gz",
+      "cells": 5474,
+      "size": 98149
+    },
+    {
+      "code": "IS",
+      "name": "Islandia",
+      "mcc": 274,
+      "file": "data/IS_274.csv.gz",
+      "cells": 1183,
+      "size": 23435
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "mcc": 425,
+      "file": "data/IL_425.csv.gz",
+      "cells": 58758,
+      "size": 1185875
+    },
+    {
+      "code": "IT",
+      "name": "Italia",
+      "mcc": 222,
+      "file": "data/IT_222.csv.gz",
+      "cells": 115840,
+      "size": 2368292
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "mcc": 338,
+      "file": "data/JM_338.csv.gz",
+      "cells": 875,
+      "size": 3639
+    },
+    {
+      "code": "JP",
+      "name": "Japón",
+      "mcc": 440,
+      "file": "data/JP_440.csv.gz",
+      "cells": 702827,
+      "size": 14084641
+    },
+    {
+      "code": "JP",
+      "name": "Japón",
+      "mcc": 441,
+      "file": "data/JP_441.csv.gz",
+      "cells": 119,
+      "size": 2800
+    },
+    {
+      "code": "KE",
+      "name": "Kenia",
+      "mcc": 639,
+      "file": "data/KE_639.csv.gz",
+      "cells": 143413,
+      "size": 3075142
+    },
+    {
+      "code": "LS",
+      "name": "Lesoto",
+      "mcc": 651,
+      "file": "data/LS_651.csv.gz",
+      "cells": 170,
+      "size": 3175
+    },
+    {
+      "code": "LV",
+      "name": "Letonia",
+      "mcc": 247,
+      "file": "data/LV_247.csv.gz",
+      "cells": 3344,
+      "size": 58946
+    },
+    {
+      "code": "LY",
+      "name": "Libia",
+      "mcc": 606,
+      "file": "data/LY_606.csv.gz",
+      "cells": 593,
+      "size": 9540
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "mcc": 295,
+      "file": "data/LI_295.csv.gz",
+      "cells": 120,
+      "size": 2280
+    },
+    {
+      "code": "LT",
+      "name": "Lituania",
+      "mcc": 246,
+      "file": "data/LT_246.csv.gz",
+      "cells": 9634,
+      "size": 183476
+    },
+    {
+      "code": "LU",
+      "name": "Luxemburgo",
+      "mcc": 270,
+      "file": "data/LU_270.csv.gz",
+      "cells": 8787,
+      "size": 178728
+    },
+    {
+      "code": "LB",
+      "name": "Líbano",
+      "mcc": 415,
+      "file": "data/LB_415.csv.gz",
+      "cells": 1438,
+      "size": 26060
+    },
+    {
+      "code": "M221",
+      "name": "MCC 221",
+      "mcc": 221,
+      "file": "data/M221_221.csv.gz",
+      "cells": 327,
+      "size": 6019
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "mcc": 455,
+      "file": "data/MO_455.csv.gz",
+      "cells": 457,
+      "size": 6996
+    },
+    {
+      "code": "MY",
+      "name": "Malasia",
+      "mcc": 502,
+      "file": "data/MY_502.csv.gz",
+      "cells": 95806,
+      "size": 1803167
+    },
+    {
+      "code": "MA",
+      "name": "Marruecos",
+      "mcc": 604,
+      "file": "data/MA_604.csv.gz",
+      "cells": 5994,
+      "size": 122772
+    },
+    {
+      "code": "MX",
+      "name": "México",
+      "mcc": 334,
+      "file": "data/MX_334.csv.gz",
+      "cells": 199816,
+      "size": 4222647
+    },
+    {
+      "code": "MC",
+      "name": "Mónaco",
+      "mcc": 212,
+      "file": "data/MC_212.csv.gz",
+      "cells": 3578,
+      "size": 62037
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "mcc": 710,
+      "file": "data/NI_710.csv.gz",
+      "cells": 6930,
+      "size": 128038
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "mcc": 621,
+      "file": "data/NG_621.csv.gz",
+      "cells": 97595,
+      "size": 1947670
+    },
+    {
+      "code": "NO",
+      "name": "Noruega",
+      "mcc": 242,
+      "file": "data/NO_242.csv.gz",
+      "cells": 14017,
+      "size": 267128
+    },
+    {
+      "code": "OM",
+      "name": "Omán",
+      "mcc": 422,
+      "file": "data/OM_422.csv.gz",
+      "cells": 2316,
+      "size": 39576
+    },
+    {
+      "code": "PA",
+      "name": "Panamá",
+      "mcc": 714,
+      "file": "data/PA_714.csv.gz",
+      "cells": 21876,
+      "size": 444066
+    },
+    {
+      "code": "PG",
+      "name": "Papúa",
+      "mcc": 537,
+      "file": "data/PG_537.csv.gz",
+      "cells": 1022,
+      "size": 14495
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "mcc": 744,
+      "file": "data/PY_744.csv.gz",
+      "cells": 2852,
+      "size": 57578
+    },
+    {
+      "code": "PE",
+      "name": "Perú",
+      "mcc": 716,
+      "file": "data/PE_716.csv.gz",
+      "cells": 19714,
+      "size": 379894
+    },
+    {
+      "code": "PF",
+      "name": "Polinesia FR",
+      "mcc": 547,
+      "file": "data/PF_547.csv.gz",
+      "cells": 81,
+      "size": 1310
+    },
+    {
+      "code": "PL",
+      "name": "Polonia",
+      "mcc": 260,
+      "file": "data/PL_260.csv.gz",
+      "cells": 99151,
+      "size": 2025547
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "mcc": 268,
+      "file": "data/PT_268.csv.gz",
+      "cells": 23083,
+      "size": 438305
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "mcc": 330,
+      "file": "data/PR_330.csv.gz",
+      "cells": 985,
+      "size": 16418
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "mcc": 427,
+      "file": "data/QA_427.csv.gz",
+      "cells": 2381,
+      "size": 45392
+    },
+    {
+      "code": "CD",
+      "name": "RDC",
+      "mcc": 630,
+      "file": "data/CD_630.csv.gz",
+      "cells": 12685,
+      "size": 257571
+    },
+    {
+      "code": "GB",
+      "name": "Reino Unido",
+      "mcc": 234,
+      "file": "data/GB_234.csv.gz",
+      "cells": 272738,
+      "size": 5485814
+    },
+    {
+      "code": "RO",
+      "name": "Rumanía",
+      "mcc": 226,
+      "file": "data/RO_226.csv.gz",
+      "cells": 17927,
+      "size": 329468
+    },
+    {
+      "code": "RU",
+      "name": "Rusia",
+      "mcc": 250,
+      "file": "data/RU_250.csv.gz",
+      "cells": 113382,
+      "size": 2163885
+    },
+    {
+      "code": "SG",
+      "name": "Singapur",
+      "mcc": 525,
+      "file": "data/SG_525.csv.gz",
+      "cells": 40715,
+      "size": 768858
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "mcc": 413,
+      "file": "data/LK_413.csv.gz",
+      "cells": 3148,
+      "size": 50631
+    },
+    {
+      "code": "SE",
+      "name": "Suecia",
+      "mcc": 240,
+      "file": "data/SE_240.csv.gz",
+      "cells": 60445,
+      "size": 1107777
+    },
+    {
+      "code": "TH",
+      "name": "Tailandia",
+      "mcc": 520,
+      "file": "data/TH_520.csv.gz",
+      "cells": 33820,
+      "size": 603084
+    },
+    {
+      "code": "TR",
+      "name": "Turquía",
+      "mcc": 286,
+      "file": "data/TR_286.csv.gz",
+      "cells": 47121,
+      "size": 847564
+    },
+    {
+      "code": "UA",
+      "name": "Ucrania",
+      "mcc": 255,
+      "file": "data/UA_255.csv.gz",
+      "cells": 23457,
+      "size": 436821
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "mcc": 748,
+      "file": "data/UY_748.csv.gz",
+      "cells": 15084,
+      "size": 318645
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "mcc": 734,
+      "file": "data/VE_734.csv.gz",
+      "cells": 2298,
+      "size": 41574
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "mcc": 452,
+      "file": "data/VN_452.csv.gz",
+      "cells": 23890,
+      "size": 385498
+    }
+  ]
+}
